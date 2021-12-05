@@ -23,3 +23,10 @@ You will need to set up a .env file with:
     FLICKR_SECRET=[your secret]
 
 Which can be received [here](https://www.flickr.com/services/apps/create/apply/).
+
+
+# TODOs: 
+
+We have provided an example exif_data.json file for this repo, but if start one from scratch
+the file needs to contain '[' (open square bracket) at the beginning of the file.
+Then when you stop the program, you will need to add a ']' (closing bracket). We would like to fix this in the future.
